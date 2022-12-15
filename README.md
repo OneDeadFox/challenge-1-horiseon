@@ -6,4 +6,4 @@ In this excersise I consolidated redundant CSS selectors, changed the tag labeli
 
 ![alt text](https://github.com/OneDeadFox/challenge-1-horiseon/blob/main/Develop/assets/images/screenshot.PNG)
 
-https://onedeadfox.github.io/challenge-1-horiseon/Develop/index.html
+https://onedeadfox.github.io/challenge-1-horiseon/
